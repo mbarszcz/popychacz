@@ -1,0 +1,340 @@
+2025-11-19 22:32:26,096 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='140054383758944'>. Agent is idle.
+2025-11-19 22:32:26,096 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:32:26,096 - INFO - Target coordinates: (490, 490)
+2025-11-19 22:32:26,096 - INFO - Clicking at target...
+2025-11-19 22:32:26,097 - INFO - Typing text...
+2025-11-19 22:32:26,097 - INFO - Pressing Enter...
+2025-11-19 22:32:26,098 - INFO - Sent 'continue'.
+2025-11-19 22:32:26,098 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:32:26,100 - INFO - >>> Quit signal received. Stopping... <<<
+2025-11-19 22:32:26,101 - INFO - >>> Bot PAUSED by user <<<
+2025-11-19 22:32:26,102 - INFO - >>> Bot RESUMED by user <<<
+2025-11-19 22:35:30,688 - INFO - Microphone detected at <MagicMock id='135734747683904'>. Agent is idle.
+2025-11-19 22:35:30,688 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:35:30,688 - INFO - Target coordinates: (590, 590)
+2025-11-19 22:35:30,688 - INFO - Clicking at target...
+2025-11-19 22:35:30,689 - INFO - Typing text...
+2025-11-19 22:35:30,690 - INFO - Pressing Enter...
+2025-11-19 22:35:30,690 - INFO - Sent 'continue'.
+2025-11-19 22:35:30,690 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:35:30,692 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='135734745957392'>. Agent is idle.
+2025-11-19 22:35:30,692 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:35:30,692 - INFO - Target coordinates: (490, 490)
+2025-11-19 22:35:30,692 - INFO - Clicking at target...
+2025-11-19 22:35:30,693 - INFO - Typing text...
+2025-11-19 22:35:30,693 - INFO - Pressing Enter...
+2025-11-19 22:35:30,693 - INFO - Sent 'continue'.
+2025-11-19 22:35:30,693 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:41:20,095 - INFO - Starting background bot thread...
+2025-11-19 22:41:20,095 - INFO - Action taken. Exiting (--once mode).
+2025-11-19 22:41:20,097 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='131245526357424'>. Agent is idle.
+2025-11-19 22:41:20,097 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:41:20,097 - INFO - Target coordinates: (0, 0)
+2025-11-19 22:41:20,097 - INFO - Clicking at target...
+2025-11-19 22:41:20,097 - INFO - Typing text...
+2025-11-19 22:41:20,098 - INFO - Pressing Enter...
+2025-11-19 22:41:20,098 - INFO - Sent 'continue'.
+2025-11-19 22:41:20,099 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:43:56,323 - INFO - === Cursor Auto-Continue Bot ===
+2025-11-19 22:43:56,325 - INFO - --- Dependency Check ---
+2025-11-19 22:43:56,834 - INFO - pyautogui: 0.9.54
+2025-11-19 22:43:56,843 - INFO - pynput: 1.8.1
+2025-11-19 22:43:56,848 - INFO - pystray: 0.19.5
+2025-11-19 22:43:56,849 - INFO - Pillow: 9.5.0
+2025-11-19 22:43:56,853 - INFO - plyer: 2.1.0
+2025-11-19 22:43:56,855 - INFO - opencv-python: 4.12.0.88
+2025-11-19 22:43:56,857 - INFO - ------------------------
+2025-11-19 22:43:56,858 - INFO - Configuration: Cooldown=15.0s, Notifications=False, Once=False
+2025-11-19 22:43:56,861 - INFO - Hotkeys: [F8] Pause/Resume | [F9] Quit
+2025-11-19 22:43:56,863 - INFO - Logging to \\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\bot.log
+2025-11-19 22:43:56,882 - INFO - Starting background bot thread...
+2025-11-19 22:43:56,897 - INFO - System tray icon started. Check your taskbar.
+2025-11-19 22:44:15,589 - INFO - >>> Bot PAUSED by user <<<
+2025-11-19 22:44:22,343 - INFO - >>> Bot RESUMED by user <<<
+2025-11-19 22:46:30,658 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='129235283521136'>. Agent is idle.
+2025-11-19 22:46:30,658 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:46:30,658 - INFO - Target coordinates: (0, 0)
+2025-11-19 22:46:30,658 - INFO - Clicking at target...
+2025-11-19 22:46:30,659 - INFO - Typing text...
+2025-11-19 22:46:30,659 - INFO - Pressing Enter...
+2025-11-19 22:46:30,659 - INFO - Sent 'continue'.
+2025-11-19 22:46:30,660 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:46:30,660 - ERROR - Registry error: name 'winreg' is not defined
+2025-11-19 22:46:30,670 - ERROR - Registry error: name 'winreg' is not defined
+2025-11-19 22:47:28,738 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='132207250966432'>. Agent is idle.
+2025-11-19 22:47:28,739 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:47:28,739 - INFO - Target coordinates: (0, 0)
+2025-11-19 22:47:28,740 - INFO - Clicking at target...
+2025-11-19 22:47:28,741 - INFO - Typing text...
+2025-11-19 22:47:28,742 - INFO - Pressing Enter...
+2025-11-19 22:47:28,743 - INFO - Sent 'continue'.
+2025-11-19 22:47:28,744 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:47:28,748 - ERROR - Registry error: Key not found
+2025-11-19 22:47:28,752 - ERROR - Registry error: Key not found
+2025-11-19 22:47:49,209 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='127477680601472'>. Agent is idle.
+2025-11-19 22:47:49,209 - INFO - Saved mouse position: (100, 100)
+2025-11-19 22:47:49,209 - INFO - Target coordinates: (0, 0)
+2025-11-19 22:47:49,209 - INFO - Clicking at target...
+2025-11-19 22:47:49,210 - INFO - Typing text...
+2025-11-19 22:47:49,211 - INFO - Pressing Enter...
+2025-11-19 22:47:49,211 - INFO - Sent 'continue'.
+2025-11-19 22:47:49,212 - INFO - Restoring mouse to: (100, 100)
+2025-11-19 22:47:49,215 - INFO - Startup: Disabled.
+2025-11-19 22:47:49,218 - INFO - Startup: Enabled with command: "/usr/bin/python3" "/home/micro/projects/popychacz/auto_continue_bot.py" --background
+2025-11-19 22:48:33,685 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 22:48:33,689 - INFO - Checking for user activity...
+2025-11-19 22:48:34,191 - INFO - Saved mouse position: (2253, 988)
+2025-11-19 22:48:34,192 - INFO - Target coordinates: (834, 1945)
+2025-11-19 22:48:34,193 - INFO - Clicking at target...
+2025-11-19 22:48:34,604 - INFO - Typing text...
+2025-11-19 22:48:43,656 - INFO - Pressing Enter...
+2025-11-19 22:48:43,763 - INFO - Sent 'continue'.
+2025-11-19 22:48:43,765 - INFO - Restoring mouse to: (2253, 988)
+2025-11-19 22:54:06,584 - INFO - Microphone detected at Point(x=np.int64(1213), y=np.int64(1995)). Agent is idle.
+2025-11-19 22:54:06,586 - INFO - Checking for user activity...
+2025-11-19 22:54:07,090 - INFO - Saved mouse position: (1145, 1854)
+2025-11-19 22:54:07,092 - INFO - Target coordinates: (1013, 1945)
+2025-11-19 22:54:07,095 - INFO - Clicking at target...
+2025-11-19 22:54:07,508 - INFO - Typing text...
+2025-11-19 22:54:17,596 - INFO - Pressing Enter...
+2025-11-19 22:54:17,703 - INFO - Sent 'continue'.
+2025-11-19 22:54:17,706 - INFO - Restoring mouse to: (1145, 1854)
+2025-11-19 22:56:29,844 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 22:56:29,847 - INFO - Checking for user activity...
+2025-11-19 22:56:30,350 - INFO - Saved mouse position: (952, 1799)
+2025-11-19 22:56:30,353 - INFO - Target coordinates: (834, 1945)
+2025-11-19 22:56:30,355 - INFO - Clicking at target...
+2025-11-19 22:56:30,764 - INFO - Typing text...
+2025-11-19 22:56:40,453 - INFO - Pressing Enter...
+2025-11-19 22:56:40,565 - INFO - Sent 'continue'.
+2025-11-19 22:56:40,567 - INFO - Restoring mouse to: (952, 1799)
+2025-11-19 22:57:07,990 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 22:57:07,992 - INFO - Checking for user activity...
+2025-11-19 22:57:08,330 - INFO - >>> Bot PAUSED by user <<<
+2025-11-19 22:57:08,494 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 22:57:23,253 - INFO - >>> Quit signal received. Stopping... <<<
+2025-11-19 22:57:23,284 - INFO - Bot stopped.
+2025-11-19 22:57:27,323 - INFO - === Cursor Auto-Continue Bot ===
+2025-11-19 22:57:27,326 - INFO - --- Dependency Check ---
+2025-11-19 22:57:27,943 - INFO - pyautogui: 0.9.54
+2025-11-19 22:57:27,945 - INFO - pynput: 1.8.1
+2025-11-19 22:57:27,946 - INFO - pystray: 0.19.5
+2025-11-19 22:57:27,948 - INFO - Pillow: 9.5.0
+2025-11-19 22:57:27,949 - INFO - plyer: 2.1.0
+2025-11-19 22:57:27,950 - INFO - opencv-python: 4.12.0.88
+2025-11-19 22:57:27,951 - INFO - ------------------------
+2025-11-19 22:57:27,952 - INFO - Configuration: Cooldown=15.0s, Notifications=False, Once=False, Background=False
+2025-11-19 22:57:27,999 - INFO - Hotkeys: [F8] Pause/Resume | [F9] Quit
+2025-11-19 22:57:28,000 - INFO - Logging to \\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\bot.log
+2025-11-19 22:57:28,010 - INFO - Starting background bot thread...
+2025-11-19 22:57:28,117 - INFO - System tray icon started. Check your taskbar.
+2025-11-19 22:57:35,061 - INFO - Startup: Enabled with command: "C:\Users\micro\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\pythonw.exe" "\\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\auto_continue_bot.py" --background
+2025-11-19 22:57:45,642 - INFO - >>> Bot PAUSED by user <<<
+2025-11-19 23:03:21,014 - INFO - >>> Bot RESUMED by user <<<
+2025-11-19 23:03:24,538 - INFO - Microphone detected at Point(x=np.int64(1213), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:03:24,539 - INFO - Checking for user activity...
+2025-11-19 23:03:25,042 - INFO - Saved mouse position: (3251, 1848)
+2025-11-19 23:03:25,043 - INFO - Target coordinates: (1013, 1945)
+2025-11-19 23:03:25,045 - INFO - Clicking at target...
+2025-11-19 23:03:25,474 - INFO - Typing text...
+2025-11-19 23:03:37,191 - INFO - Pressing Enter...
+2025-11-19 23:03:37,304 - INFO - Sent 'continue'.
+2025-11-19 23:03:37,306 - INFO - Restoring mouse to: (3251, 1848)
+2025-11-19 23:04:00,205 - INFO - Microphone detected at Point(x=np.int64(1213), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:04:00,208 - INFO - Checking for user activity...
+2025-11-19 23:04:00,712 - INFO - Saved mouse position: (3251, 1848)
+2025-11-19 23:04:00,715 - INFO - Target coordinates: (1013, 1945)
+2025-11-19 23:04:00,717 - INFO - Clicking at target...
+2025-11-19 23:04:01,132 - INFO - Typing text...
+2025-11-19 23:04:12,540 - INFO - Pressing Enter...
+2025-11-19 23:04:12,652 - INFO - Sent 'continue'.
+2025-11-19 23:04:12,654 - INFO - Restoring mouse to: (3251, 1848)
+2025-11-19 23:04:54,119 - INFO - Microphone detected at Point(x=np.int64(1213), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:04:54,127 - INFO - Checking for user activity...
+2025-11-19 23:04:54,630 - INFO - Saved mouse position: (3251, 1848)
+2025-11-19 23:04:54,632 - INFO - Target coordinates: (1013, 1945)
+2025-11-19 23:04:54,634 - INFO - Clicking at target...
+2025-11-19 23:04:55,043 - INFO - Typing text...
+2025-11-19 23:05:04,792 - INFO - Pressing Enter...
+2025-11-19 23:05:04,901 - INFO - Sent 'continue'.
+2025-11-19 23:05:04,903 - INFO - Restoring mouse to: (3251, 1848)
+2025-11-19 23:05:54,293 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:05:54,296 - INFO - Checking for user activity...
+2025-11-19 23:05:54,799 - INFO - Saved mouse position: (1049, 1856)
+2025-11-19 23:05:54,801 - INFO - Target coordinates: (834, 1945)
+2025-11-19 23:05:54,802 - INFO - Clicking at target...
+2025-11-19 23:05:55,208 - INFO - Typing text...
+2025-11-19 23:06:06,499 - INFO - Pressing Enter...
+2025-11-19 23:06:06,609 - INFO - Sent 'continue'.
+2025-11-19 23:06:06,612 - INFO - Restoring mouse to: (1049, 1856)
+2025-11-19 23:06:33,145 - INFO - >>> Quit signal received. Stopping... <<<
+2025-11-19 23:06:33,186 - INFO - Bot stopped.
+2025-11-19 23:06:38,175 - INFO - === Cursor Auto-Continue Bot ===
+2025-11-19 23:06:38,176 - INFO - --- Dependency Check ---
+2025-11-19 23:06:38,393 - INFO - pyautogui: 0.9.54
+2025-11-19 23:06:38,394 - INFO - pynput: 1.8.1
+2025-11-19 23:06:38,396 - INFO - pystray: 0.19.5
+2025-11-19 23:06:38,397 - INFO - Pillow: 9.5.0
+2025-11-19 23:06:38,398 - INFO - plyer: 2.1.0
+2025-11-19 23:06:38,399 - INFO - opencv-python: 4.12.0.88
+2025-11-19 23:06:38,400 - INFO - ------------------------
+2025-11-19 23:06:38,401 - INFO - Configuration: Cooldown=15.0s, Notifications=False, Once=False, Background=True
+2025-11-19 23:06:38,415 - INFO - Hotkeys: [F8] Pause/Resume | [F9] Quit
+2025-11-19 23:06:38,416 - INFO - Logging to \\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\bot.log
+2025-11-19 23:06:38,426 - INFO - Starting background bot thread...
+2025-11-19 23:06:38,427 - INFO - System tray icon started. Check your taskbar.
+2025-11-19 23:06:47,516 - INFO - >>> Quit signal received. Stopping... <<<
+2025-11-19 23:06:47,535 - INFO - Bot stopped.
+2025-11-19 23:23:19,638 - INFO - === Cursor Auto-Continue Bot ===
+2025-11-19 23:23:19,639 - INFO - Configuration: Cooldown=15.0s, Notifications=False, Once=False, Background=False
+2025-11-19 23:23:19,659 - INFO - Hotkeys: [F8] Pause/Resume | [F9] Quit
+2025-11-19 23:23:19,660 - INFO - Logging to \\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\bot.log
+2025-11-19 23:23:19,669 - INFO - Starting background bot thread...
+2025-11-19 23:23:19,670 - INFO - System tray icon started. Check your taskbar.
+2025-11-19 23:23:19,671 - INFO - Bot started in PAUSED state. Right-click tray icon or press F8 to resume.
+2025-11-19 23:23:36,058 - INFO - >>> Bot RESUMED by user <<<
+2025-11-19 23:23:38,788 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:23:38,791 - INFO - Checking for user activity...
+2025-11-19 23:23:39,294 - INFO - Saved mouse position: (3318, 1962)
+2025-11-19 23:23:39,297 - INFO - Target coordinates: (834, 1945)
+2025-11-19 23:23:39,299 - INFO - Clicking at target...
+2025-11-19 23:23:39,707 - INFO - Typing text...
+2025-11-19 23:23:49,077 - INFO - Pressing Enter...
+2025-11-19 23:23:49,186 - INFO - Sent 'continue'.
+2025-11-19 23:23:49,188 - INFO - Restoring mouse to: (3318, 1962)
+2025-11-19 23:23:55,185 - INFO - >>> Bot PAUSED by user <<<
+2025-11-19 23:24:35,625 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130649873331696'>. Agent is idle.
+2025-11-19 23:24:35,629 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:24:35,629 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:24:35,629 - INFO - [DRY RUN] Moving to target...
+2025-11-19 23:24:35,631 - INFO - [DRY RUN] Would click and type here.
+2025-11-19 23:24:35,632 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:24:35,635 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130649873063744'>. Agent is idle.
+2025-11-19 23:24:35,635 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:24:35,635 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:24:35,636 - INFO - Clicking at target...
+2025-11-19 23:24:35,636 - INFO - Typing text...
+2025-11-19 23:24:35,637 - INFO - Pressing Enter...
+2025-11-19 23:24:35,638 - INFO - Sent 'continue'.
+2025-11-19 23:24:35,638 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:24:35,645 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130649873469696'>. Agent is idle.
+2025-11-19 23:24:35,645 - INFO - Checking for user activity...
+2025-11-19 23:24:35,645 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:24:35,666 - ERROR - Failed to send notification: Failed
+2025-11-19 23:24:35,680 - ERROR - Invalid image file 'valid.png': Bad file
+2025-11-19 23:24:59,335 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='123685878322752'>. Agent is idle.
+2025-11-19 23:24:59,336 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:24:59,336 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:24:59,336 - INFO - [DRY RUN] Moving to target...
+2025-11-19 23:24:59,337 - INFO - [DRY RUN] Would click and type here.
+2025-11-19 23:24:59,337 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:24:59,339 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='123685887019680'>. Agent is idle.
+2025-11-19 23:24:59,339 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:24:59,339 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:24:59,339 - INFO - Clicking at target...
+2025-11-19 23:24:59,340 - INFO - Typing text...
+2025-11-19 23:24:59,340 - INFO - Pressing Enter...
+2025-11-19 23:24:59,341 - INFO - Sent 'continue'.
+2025-11-19 23:24:59,341 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:24:59,345 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='123685878616128'>. Agent is idle.
+2025-11-19 23:24:59,346 - INFO - Checking for user activity...
+2025-11-19 23:24:59,346 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:24:59,390 - ERROR - Failed to send notification: Failed
+2025-11-19 23:24:59,393 - INFO - Startup: Disabled.
+2025-11-19 23:24:59,394 - INFO - Startup: Enabled with command: "/usr/bin/python" "/path/to/bot.py" --background
+2025-11-19 23:24:59,402 - ERROR - Invalid image file 'valid.png': Bad file
+2025-11-19 23:25:11,147 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130779242293264'>. Agent is idle.
+2025-11-19 23:25:11,147 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:11,147 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:11,147 - INFO - [DRY RUN] Moving to target...
+2025-11-19 23:25:11,148 - INFO - [DRY RUN] Would click and type here.
+2025-11-19 23:25:11,148 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:11,151 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130779242174880'>. Agent is idle.
+2025-11-19 23:25:11,152 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:11,152 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:11,152 - INFO - Clicking at target...
+2025-11-19 23:25:11,153 - INFO - Typing text...
+2025-11-19 23:25:11,153 - INFO - Pressing Enter...
+2025-11-19 23:25:11,154 - INFO - Sent 'continue'.
+2025-11-19 23:25:11,154 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:11,158 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='130779242520720'>. Agent is idle.
+2025-11-19 23:25:11,158 - INFO - Checking for user activity...
+2025-11-19 23:25:11,158 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:25:11,169 - ERROR - Failed to send notification: Failed
+2025-11-19 23:25:11,172 - INFO - Startup: Disabled.
+2025-11-19 23:25:11,174 - INFO - Startup: Enabled with command: "/usr/bin/python" "/path/to/bot.py" --background
+2025-11-19 23:25:11,180 - ERROR - Invalid image file 'valid.png': Bad file
+2025-11-19 23:25:23,418 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='126222271538832'>. Agent is idle.
+2025-11-19 23:25:23,419 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:23,419 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:23,419 - INFO - [DRY RUN] Moving to target...
+2025-11-19 23:25:23,421 - INFO - [DRY RUN] Would click and type here.
+2025-11-19 23:25:23,422 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:23,424 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='126222271420592'>. Agent is idle.
+2025-11-19 23:25:23,424 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:23,425 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:23,425 - INFO - Clicking at target...
+2025-11-19 23:25:23,425 - INFO - Typing text...
+2025-11-19 23:25:23,426 - INFO - Pressing Enter...
+2025-11-19 23:25:23,427 - INFO - Sent 'continue'.
+2025-11-19 23:25:23,427 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:23,433 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='126222271766672'>. Agent is idle.
+2025-11-19 23:25:23,433 - INFO - Checking for user activity...
+2025-11-19 23:25:23,433 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:25:23,445 - ERROR - Failed to send notification: Failed
+2025-11-19 23:25:23,449 - INFO - Startup: Disabled.
+2025-11-19 23:25:23,451 - INFO - Startup: Enabled with command: "/usr/bin/python" "/path/to/bot.py" --background
+2025-11-19 23:25:35,148 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='133725898155808'>. Agent is idle.
+2025-11-19 23:25:35,148 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:35,148 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:35,148 - INFO - [DRY RUN] Moving to target...
+2025-11-19 23:25:35,149 - INFO - [DRY RUN] Would click and type here.
+2025-11-19 23:25:35,149 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:35,151 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='133725898037280'>. Agent is idle.
+2025-11-19 23:25:35,151 - INFO - Saved mouse position: (50, 50)
+2025-11-19 23:25:35,151 - INFO - Target coordinates: (90, 90)
+2025-11-19 23:25:35,151 - INFO - Clicking at target...
+2025-11-19 23:25:35,152 - INFO - Typing text...
+2025-11-19 23:25:35,152 - INFO - Pressing Enter...
+2025-11-19 23:25:35,153 - INFO - Sent 'continue'.
+2025-11-19 23:25:35,153 - INFO - Restoring mouse to: (50, 50)
+2025-11-19 23:25:35,157 - INFO - Microphone detected at <MagicMock name='mock.locateCenterOnScreen()' id='133725898383456'>. Agent is idle.
+2025-11-19 23:25:35,157 - INFO - Checking for user activity...
+2025-11-19 23:25:35,158 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:25:35,167 - ERROR - Failed to send notification: Failed
+2025-11-19 23:25:35,170 - INFO - Startup: Disabled.
+2025-11-19 23:25:35,171 - INFO - Startup: Enabled with command: "/usr/bin/python" "/path/to/bot.py" --background
+2025-11-19 23:27:18,354 - INFO - >>> Quit signal received. Stopping... <<<
+2025-11-19 23:27:18,372 - INFO - Bot stopped.
+2025-11-19 23:27:20,971 - INFO - === Cursor Auto-Continue Bot ===
+2025-11-19 23:27:20,972 - INFO - Configuration: Cooldown=15.0s, Notifications=False, Once=False, Background=False
+2025-11-19 23:27:20,986 - INFO - Hotkeys: [F8] Pause/Resume | [F9] Quit
+2025-11-19 23:27:20,987 - INFO - Logging to \\wsl.localhost\Ubuntu-24.04\home\micro\projects\popychacz\bot.log
+2025-11-19 23:27:21,001 - INFO - Starting background bot thread...
+2025-11-19 23:27:21,002 - INFO - System tray icon started. Check your taskbar.
+2025-11-19 23:27:21,004 - INFO - Bot started in PAUSED state. Right-click tray icon or press F8 to resume.
+2025-11-19 23:27:26,755 - INFO - >>> Bot RESUMED by user <<<
+2025-11-19 23:27:28,265 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:28,267 - INFO - Checking for user activity...
+2025-11-19 23:27:28,770 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:27:31,040 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:31,042 - INFO - Checking for user activity...
+2025-11-19 23:27:31,545 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:27:33,856 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:33,858 - INFO - Checking for user activity...
+2025-11-19 23:27:34,361 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:27:36,637 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:36,639 - INFO - Checking for user activity...
+2025-11-19 23:27:37,141 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:27:39,458 - INFO - Microphone detected at Point(x=np.int64(1034), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:39,460 - INFO - Checking for user activity...
+2025-11-19 23:27:39,962 - WARNING - User activity detected (mouse moving). Skipping this cycle to be polite.
+2025-11-19 23:27:45,689 - INFO - Microphone detected at Point(x=np.int64(1213), y=np.int64(1995)). Agent is idle.
+2025-11-19 23:27:45,691 - INFO - Checking for user activity...
+2025-11-19 23:27:46,194 - INFO - Saved mouse position: (2009, 1645)
+2025-11-19 23:27:46,197 - INFO - Target coordinates: (1013, 1945)
+2025-11-19 23:27:46,198 - INFO - Clicking at target...
+2025-11-19 23:27:46,606 - INFO - Typing text...
+2025-11-19 23:27:56,482 - INFO - Pressing Enter...
+2025-11-19 23:27:56,588 - INFO - Sent 'continue'.
+2025-11-19 23:27:56,590 - INFO - Restoring mouse to: (2009, 1645)

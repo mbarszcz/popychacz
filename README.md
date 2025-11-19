@@ -1,13 +1,22 @@
 # Cursor Auto-Continue Bot
 
-This script automates typing "continue" in the Cursor Chat when the agent stops.
+A lightweight automation tool designed to maintain long-running, unsupervised development sessions with AI agents in Cursor. By automatically detecting and interacting with the agent's prompt, it reduces the need for manual oversight and keeps the development flow moving forward.
 
-## Logic
-1.  It constantly scans the screen for the **Microphone icon**, which indicates the agent has finished generating and is waiting for input.
-2.  When found, it saves your current mouse position.
-3.  It clicks near the microphone (to focus the input box).
-4.  It types `continue` and hits `ENTER`.
-5.  It moves your mouse back to where it was.
+> **Note:** This tool is currently experimental and primarily tested on Windows with Cursor 2.0.64.
+
+## Roadmap
+
+- [ ] **Improved Process Management**: Enhance background process handling (specifically `sleep` behavior on Gemini 3 Pro).
+- [ ] **Auto-Commit Integration**: Implement automatic git commits upon agent interaction to create checkpoints, allowing for easier rollbacks if the agent diverges.
+
+## Features
+*   **Visual Detection**: Scans for the microphone icon.
+*   **Smart ROI**: Learns the icon location for faster subsequent scans.
+*   **System Tray**: Background operation with menu control.
+*   **Run on Startup**: Option to automatically start with Windows (via Tray menu).
+*   **Notifications**: Optional system alerts.
+*   **Polite Mode**: Respects your mouse usage.
+*   **Logging**: Diagnostic logs in `bot.log`.
 
 ## Prerequisites (Host Machine)
 
@@ -18,22 +27,42 @@ Run this on your main OS (Windows/Mac/Linux).
     ```bash
     pip install -r requirements.txt
     ```
+    *Linux Users*: You may also need `sudo apt-get install python3-tk python3-dev scrot`.
 
 ## Setup
 
 1.  **Capture the Microphone**:
-    *   Open Cursor. Ensure the chat input is empty and the agent is stopped.
-    *   Find the small microphone icon (usually in the input bar).
-    *   Use "Snipping Tool" to screenshot **just the icon**.
-    *   Save it as `microphone_icon.png` in this folder.
+    *   Screenshot just the microphone icon from the chat bar.
+    *   Save it as `microphone_icon.png`.
 
-2.  **Adjust Offset (Optional)**:
-    *   Open `auto_continue_bot.py`.
-    *   Look for `target_x = mic_location.x + 50`.
-    *   If the click misses the text box, increase or decrease this number.
+2.  **Calibration**:
+    ```bash
+    python auto_continue_bot.py --calibrate
+    ```
 
 ## Usage
 
 ```bash
 python auto_continue_bot.py
 ```
+
+*   The bot starts in the **System Tray** in a **PAUSED** state (Red icon).
+*   Right-click the icon and select **Resume** or press **F8** to start monitoring.
+
+### Controls
+
+*   **Tray Menu (Right-Click Icon)**:
+    *   **Pause/Resume**: Toggle bot activity.
+    *   **Run on Startup**: Toggle automatic startup (Windows only).
+    *   **Quit**: Exit the application.
+*   **F8**: Pause / Resume.
+*   **F9**: Quit.
+
+### Configuration
+
+Settings are loaded from `config.json` or CLI arguments:
+*   `--text "Your text"`: Custom text to type.
+*   `--cooldown 15`: Seconds to wait between actions.
+*   `--no-polite`: Disable user activity detection.
+*   `--notify`: Enable system notifications.
+*   `--background`: Suppress console window (used internally for startup).

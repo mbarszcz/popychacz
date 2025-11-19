@@ -2,3 +2,6 @@ pyautogui
 opencv-python
 pillow<=9.5.0
 pyscreeze
+pynput
+pystray
+plyer
