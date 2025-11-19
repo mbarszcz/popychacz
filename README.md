@@ -2,7 +2,7 @@
 
 A lightweight automation tool designed to maintain long-running, unsupervised development sessions with AI agents in Cursor. By automatically detecting and interacting with the agent's prompt, it reduces the need for manual oversight and keeps the development flow moving forward.
 
-> **Note:** This tool is currently experimental and primarily tested on Windows with Cursor 2.0.64.
+> **Note:** This tool is currently experimental and primarily tested on Windows with Cursor 2.0.64. In a unique case of self-application, this tool was significantly developed *using itself* to automate interactions within the Cursor IDE.
 
 ## Roadmap
 
